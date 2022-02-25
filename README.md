@@ -1,8 +1,8 @@
 # Intro-GitHub
 
 
-##ViriMarti
+## ViriMarti
 Sesion de prueba de GitHub 
 
 
-##Insertaremos una imagen
+## Insertaremos una imagen
